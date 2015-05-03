@@ -11,3 +11,5 @@ fn main() {
   let val = 100;
   println!("fib of {0} is {1:?}", val, fib(val));
 }
+
+// rust comment
